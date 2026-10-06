@@ -18,7 +18,7 @@
 
 ## projectdemoapp
 
-An SAP Fiori application 002.
+An SAP Fiori application 003.
 
 ### Starting the generated app
 
